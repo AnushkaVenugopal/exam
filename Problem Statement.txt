@@ -1,0 +1,19 @@
+1. The Contoso Multinational Company has 12 offices over the world,so a database is required to maintain the data of entire organization.
+
+2. A central repository should be maintained, where every customers accounting details should be maintained irrespective of the offices.
+
+3. Now this data should be made avialable to the particular offices irrespective of the country or state,because one employee can work on customers data who is in a different location
+
+4. At every office an admin should be there, who can add the data of new customers and casn delete the data of the customers who are no longer associated with the company.
+
+5. He should make regular updates on the accounting details of the employee.
+
+6. Those employees who have the authority to handle the customer accounting details should be given the access to the portal.
+
+7. Number of employees can access this portal and view the customers accounting details an employee should be able to serach for the particular customers.
+
+8.The admin side and the employee side should be linked means  whenever the admin makes changes in the customer view portal the immediate cahnge shiould be reflected to the employee who is accessing the portal.
+
+9. The admin stores the data in the database and the existsing customer details is showed in the view customer page. This same page is accessd by the employee to see the customer details.
+
+10.Should develop a site where the dynamic details for example if customer changes some information like email etc it should also be available to the admin and according to the chnages made by the admin it should be reflected to the employee accessing it.  

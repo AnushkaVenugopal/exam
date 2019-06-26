@@ -1,0 +1,31 @@
+Functional Requirements
+
+1.An actor admin should be there so that he can add the 
+  new customers in the portal.
+
+2.He should be given the authority to delete a particular 
+  customer details who is no longer associated with the   comapny.
+
+3.Updates made by the admin should be immediately reflected   to the employees using it.
+
+4.The employees who have the authority to or right to see the accounting details of customers should be allowed to access the portal.
+
+5. For this employee registartion is essential.
+
+6.After this the employee will login into the portal with his
+   credentials.
+
+7.He will will be able to see the list of the customers, which is regularly beign updated by the admin.
+
+8.The employee should be able to search for a particular   customer. At a time n number of registered employee can accsess this portal.
+
+Non-Functional Requirements
+
+1.Security: The site should be secured to threats, so that
+          the customer's data is not tampered.
+
+2.Maintainability: The site should be updated,with new features so that the task can be managed easily.
+
+3.Extensibility:Should be developed in such a manner so that later the canges can be made easily.
+
+4.Scalabilty: Should be developed in such a way that it can be used for a longer period of time.
